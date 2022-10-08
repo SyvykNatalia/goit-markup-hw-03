@@ -185,7 +185,9 @@ margin-left: 50px;
   padding-top: 94px;
 padding-bottom: 94px;
 }
-
+.section.work {
+   padding-top: 0;
+}
 
 .section-list {
    display: flex;
@@ -383,6 +385,7 @@ font-family: inherit;
    line-height: 1.6;
    font-weight: 500;
    padding: 6px  22px;
+   margin-bottom: 50px;
    border-radius: 4px;
    min-width: 73px;
   border-style: none;
@@ -397,8 +400,7 @@ border: 1px solid transparent
  .section3-cards {
    margin-top: 0;
    margin-bottom: 0;
-   padding-top: 94px;
-   padding-bottom: 94px;
+
 }
 .section3-cards {
    display: flex;
